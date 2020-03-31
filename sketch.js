@@ -1,5 +1,5 @@
 var fixedRect,movingRect;
-
+var  gameObject1;
 
 function setup() {
   createCanvas(1200,800);
